@@ -10,3 +10,5 @@ recordemos que tenemos que usar pull para traer el trabajo desde un repositorio
 - git commit -m "Added..."
 - git remote add origin https://github.com/HectorBusSan/curseGit.git
 - git push -u origin master
+Si queremos recuperar del repositorio remoto
+- git pull
