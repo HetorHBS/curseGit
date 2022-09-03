@@ -12,3 +12,6 @@ recordemos que tenemos que usar pull para traer el trabajo desde un repositorio
 - git push -u origin master
 Si queremos recuperar del repositorio remoto
 - git pull
+# Remplazar Marter por Main
+- git branch -m master main (Crear la rama main y pasa todo a la rama main)
+
