@@ -40,4 +40,7 @@ Si queremos recuperar del repositorio remoto
 - doc/**/*.txt (ignora todo .txt en doc y subcarpetas)
 - generador de archivos .gitignore
 - https://github.com/HectorBusSan/BranchMain.git
-- git push (ya solo sin poner origin main porque solo tenemos una rama)
+- git push (ya solo sin poner origin main porque solo tenemos una rama).
+# Clonar
+- seleccionamos donde lo vamos clonar el repositorio
+- git cloner http://
