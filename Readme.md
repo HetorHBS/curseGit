@@ -44,7 +44,5 @@ Si queremos recuperar del repositorio remoto
 - git push (ya solo sin poner origin main porque solo tenemos una rama).
 # Clonar
 - seleccionamos donde lo vamos clonar el repositorio
-- git cloner http://
-=======
-- git push (ya solo sin poner origin main porque solo tenemos una rama)
+- git clone http://
 
