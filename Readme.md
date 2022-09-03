@@ -29,7 +29,7 @@ Si queremos recuperar del repositorio remoto
 - git (comando) -h (solicitamos ayuda sobre el comando)
 - git add -h
 - git help add (abre la ayuda en le navegador)
-## Ignorar Archivos
+# Ignorar Archivos
 - .gitignore
 - archivo.ext (ignora el archivo)
 - carpeta (nombre de la carpeta)    
