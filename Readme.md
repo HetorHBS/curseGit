@@ -45,4 +45,15 @@ Si queremos recuperar del repositorio remoto
 # Clonar
 - seleccionamos donde lo vamos clonar el repositorio
 - git clone http://
-
+# Ramas
+- git branch nombre-rama (crear rama)
+- git checkout nombre-rama (cambiar a rama especifica)
+- git checkeout -b rama (crear y cambiar a esa rama)
+- git branch -d nombre-rama(eliminar rama)
+- git branch -D nombre-rama(forzar eliminación)
+- git branch (todas las ramas)
+- git branch --no-merged (ramas no fucionadas con la rama actual)
+- git branch --merged (ramas fucionadas a la rama actual)
+- (rebasar rama)
+- git checkout rama-secundaria
+- git rebase rama-principal
