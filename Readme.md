@@ -40,3 +40,4 @@ Si queremos recuperar del repositorio remoto
 - doc/**/*.txt (ignora todo .txt en doc y subcarpetas)
 - generador de archivos .gitignore
 - https://github.com/HectorBusSan/BranchMain.git
+- git push
