@@ -34,7 +34,7 @@ Si queremos recuperar del repositorio remoto
 - archivo.ext (ignora el archivo)
 - carpeta (nombre de la carpeta)    
 - archivo_desde_raiz.ext (ignora archivo especifico en la raiz)
-- * .log (ignora todos los archivos que tienen extención .log)
+- *.log (ignora todos los archivos que tienen extención .log)
 - !producto.log (todos excepto producto.log)
 - doc/*.txt (ignora todo .txt en carpeta doc)
 - doc/**/*.txt (ignora todo .txt en doc y subcarpetas)
