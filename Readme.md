@@ -47,4 +47,4 @@ Si queremos recuperar del repositorio remoto
 - git cloner http://
 =======
 - git push (ya solo sin poner origin main porque solo tenemos una rama)
->>>>>>> 6cf4195b09eb9ff0de485c7de2d914f90c0066ba
+
