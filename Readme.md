@@ -66,7 +66,10 @@ si quieres eliminar una rama remota despues de fucionar:
 - git push origin --delete nombre-rama
 # Cambios
 - git commit --amend --no-edit (No modificar el mensaje del ultimo commit solo contenido)
-- git commit --amend -m "Nuevo mensaje para ultimo commit" (puede presentar conflicto se recomiendo hacer pull, con esta opción podemos cambiar commit y contenido)
+- git commit --amend -m "Nuevo mensaje para ultimo commit" (puede presentar conflicto se recomiendo hacer pull, con esta opción podemos cambiar commit y contenido usa git pull y acepta o rechaza los cambios actuales)
+Recuerda que puedes tener conflictos si a lo mandaste al repositprio remoto el commit a cambiar hay que tener cuidado.
+Tienes que crear un nuevo commit si no quiere conflictos para salir de Main|Merging.
+Recuerda que los cmabios seran mas faciles desde tu local.
 - git reset --hard HEAD-1 (Eliminar el utlimo commit)
 =============
 no solo con **checkout** podemos cambiar de rama tambien de commit segun su id
