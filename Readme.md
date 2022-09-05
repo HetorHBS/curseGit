@@ -64,3 +64,15 @@ Si queremos recuperar del repositorio remoto
 - git merge nombre-rama (juntara el archivo faltante)
 si quieres eliminar una rama remota despues de fucionar:
 - git push origin --delete nombre-rama
+# Cambios
+- git commit --amend --no-edit (No modificar el mensaje del ultimo commit solo contenido)
+- git commit --amend -m "Nuevo mensaje para ultimo commit" (puede presentar conflicto se recomiendo hacer pull, con esta opción podemos cambiar commit y contenido)
+- git reset --hard HEAD-1 (Eliminar el utlimo commit)
+=============
+no solo con **checkout** podemos cambiar de rama tambien de commit segun su id
+- git checkout nombre-rama
+- git checkout id-commit
+=============
+para ver el historial de commits usamos **log**
+- git log (todos los commits)
+- git log --oneline (todos los commits en una linea)
