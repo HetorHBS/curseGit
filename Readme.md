@@ -70,7 +70,8 @@ si quieres eliminar una rama remota despues de fucionar:
 Recuerda que puedes tener conflictos si a lo mandaste al repositprio remoto el commit a cambiar hay que tener cuidado.
 Tienes que crear un nuevo commit si no quiere conflictos para salir de Main|Merging.
 Recuerda que los cmabios seran mas faciles desde tu local.
-- git reset --hard HEAD-1 (Eliminar el utlimo commit)
+- por ejemplo eliminamos algo en el utlimo commit que es importante 0o0:
+- git reset --hard HEAD~1 (Eliminar el utlimo commit)
 =============
 no solo con **checkout** podemos cambiar de rama tambien de commit segun su id
 - git checkout nombre-rama
