@@ -57,3 +57,7 @@ Si queremos recuperar del repositorio remoto
 - (rebasar rama)
 - git checkout rama-secundaria
 - git rebase rama-principal
+# Fusiones
+- Fast-Forward (Fusion automatica donde hay cambios solo en un archivo y no hay conflictos de resolver)
+- Manual Merge (Fusión que hay que hacer manual para resolver confictos de duplicidad de contenido)
+- git merge html (juntara el archivo faltante)
