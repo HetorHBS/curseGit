@@ -60,4 +60,7 @@ Si queremos recuperar del repositorio remoto
 # Fusiones
 - Fast-Forward (Fusion automatica donde hay cambios solo en un archivo y no hay conflictos de resolver)
 - Manual Merge (Fusión que hay que hacer manual para resolver confictos de duplicidad de contenido)
-- git merge html (juntara el archivo faltante)
+==========
+- git merge nombre-rama (juntara el archivo faltante)
+si quieres eliminar una rama remota despues de fucionar:
+- git push origin --delete nombre-rama
