@@ -1,0 +1,53 @@
+* f2990ad Log de manera Grafica
+* 0d69bec Agregando Historial de Cambios LOG
+* 2d7a0e8 Usuando git log > commit.txt para: Crear un archivo con todos los commits
+* c2fc823 Actualización de .gitignore
+* 20c3c53 Agregando espacios en Readme.md
+* 52a694b Agregando información sobre eliminar ultimo commit
+* acd3271 Cambios GIT: Agregando información sobre cambios remotos
+*   1d09f60 Resolviendo conflicto en estaciones de año y fechas de inicio
+|\  
+| *   3e652de Cambios y agregando estaciones del año con fecha de inicio
+| |\  
+* | \   f4c0c29 Agregando estaciones con fecha de inicio junto con cambios
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * eef4492 Agregando estaciones del año
+* | 56955bf Agregando estaciones del año con fecha de inicio
+|/  
+*   5052257 Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 661943c Agregando indexjs a index.html
+* | 67309f2 Agregando Style.css al index.html
+* | fcc318c Agregando contenido de Fusiones
+* | 951db93 Agregando contenido de Fusiones
+* |   d84704f Merge branch 'js'
+|\ \  
+| * | 08b6681 Creando main.js
+* | | 61feec5 Creando style.css
+| |/  
+|/|   
+* | 37d57b4 Creando index.hmtl
+|/  
+* d3eef30 Comandos de Branch / Rama
+* c91aa0e Clonando el repositorio de curseGit en la carpteta de CURSOGIT
+* b8513a1 Clonando repositorio
+*   9fef5b5 Clonar repositorio
+|\  
+| * 6cf4195 Clonar repositorios
+* | a4f7420 Clonar repositorio
+* | 9e7cc00 Enviando el nuevo .gitignore con push
+|/  
+* 1bcf85e enviando la excepción con git push
+* 54fb636 Excluyendo archivos .exe
+* 76be325 .gitignore
+* 70183fb Agregando excepción * .log
+* 5dd47e9 Agregando contenido de .gitignore
+* 4cb1a2c Creando rama main
+* 1bad297 Agregando comando pull
+* 1c6b598 Creando Licencia del repositorio
+* 8651b26 Agregando comandos basicos
+* 13a8bbd Agregando estados de GIT
+* 484366c Primer Commit :)
