@@ -108,3 +108,4 @@ para ver el historial de commits usamos **log**
 - git diff (diferencias entre el stage y el working directory)
 
 - git log --oneline --graph --all (para ver todos los commits a una linea con una grafica)
+- git log --oneline --graph --all > graph.txt (en un txt los commits de manera grafica)
