@@ -66,7 +66,7 @@ si quieres eliminar una rama remota despues de fucionar:
 - git push origin --delete nombre-rama
 # Cambios
 - git commit --amend --no-edit (No modificar el mensaje del ultimo commit solo contenido)
-- git commit --amend -m "Nuevo mensaje para ultimo commit" (puede presentar conflicto se recomiendo hacer pull, con esta opción podemos cambiar commit y contenido usa git pull y acepta o rechaza los cambios actuales)
+- git commit --amend -m "Nuevo mensaje para ultimo commit" (puede presentar conflicto se recomiendo hacer pull, con esta opción podemos cambiar commit y contenido usa git pull y acepta o rechaza los ca   mbios actuales)
 
 
 Recuerda que puedes tener conflictos si a lo mandaste al repositprio remoto el commit a cambiar hay que tener cuidado.
@@ -94,3 +94,15 @@ no solo con **checkout** podemos cambiar de rama tambien de commit segun su id
 para ver el historial de commits usamos **log**
 - git log (todos los commits)
 - git log --oneline (todos los commits en una linea)
+
+# Historial de Cambios *LOG*
+- git log
+- git log --oneline
+- git log > commits.txt (Crea archivo de texto con todos lo commits)
+- git log --pretty=format:"%h - %an, %ar : %s" (Solicita en commit: id - creador,minutos : nombre)
+- git -n (el numero de commits que quieres ver)
+- git log --after "2022-09-14 00:00:00"
+- git log --before= "2022-09-14 00:00:00"
+- git log --after= "2022-09-14 00:00:00" --before "2022-15-08 00:00:00"
+- git log reflog (información de cambios, fuciones, ramas e inserciones)
+- git diff (diferencias entre el stage y el working directory)
