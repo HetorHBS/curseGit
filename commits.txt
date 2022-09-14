@@ -1,0 +1,221 @@
+commit c2fc82380316be8bb36104a222c6b2de7fbd6abf
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Wed Sep 14 09:52:00 2022 -0500
+
+    Actualización de .gitignore
+
+commit 20c3c533b3550633dd31db91128813c2abac8f82
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Mon Sep 5 11:26:49 2022 -0500
+
+    Agregando espacios en Readme.md
+
+commit 52a694b0ebdd8a09a9c374a73932d455382d069a
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Mon Sep 5 11:04:42 2022 -0500
+
+    Agregando información sobre eliminar ultimo commit
+
+commit acd3271111be134c0aaed8a13dac78bf224a1562
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Mon Sep 5 10:55:07 2022 -0500
+
+    Cambios GIT: Agregando información sobre cambios remotos
+
+commit 1d09f60dca7a7fcab12fee2f65a0ad969830d7fe
+Merge: f4c0c29 3e652de
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Mon Sep 5 10:53:34 2022 -0500
+
+    Resolviendo conflicto en estaciones de año y fechas de inicio
+
+commit f4c0c29341c5581ebbbdeeb4ea87ccc168392b96
+Merge: 56955bf eef4492
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Mon Sep 5 10:44:18 2022 -0500
+
+    Agregando estaciones con fecha de inicio junto con cambios
+
+commit 3e652de39a086eb7b6f531e00607fc2da969ce20
+Merge: 56955bf eef4492
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Mon Sep 5 10:44:18 2022 -0500
+
+    Cambios y agregando estaciones del año con fecha de inicio
+
+commit 56955bff633a3998bb6464a0aad978d412f20463
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Mon Sep 5 09:19:09 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit eef4492492ff7d0f95299b5420dad21e616256ef
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Mon Sep 5 09:19:09 2022 -0500
+
+    Agregando estaciones del año
+
+commit 5052257fbe5a82a221aafd96fa2a49aaa1e0c567
+Merge: 67309f2 661943c
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Sun Sep 4 21:52:29 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 661943cf84db301e09c1b22b89181aa7e49493f3
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Sun Sep 4 21:45:50 2022 -0500
+
+    Agregando indexjs a index.html
+
+commit 67309f23549693e88c3d9a5a191520af3a72269e
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Sun Sep 4 21:43:25 2022 -0500
+
+    Agregando Style.css al index.html
+
+commit fcc318c0cb7d811271d39192211ce5388296b79a
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Sun Sep 4 21:42:52 2022 -0500
+
+    Agregando contenido de Fusiones
+
+commit 951db9331db61015488f126d90edb1e1cca3d405
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Sun Sep 4 21:42:27 2022 -0500
+
+    Agregando contenido de Fusiones
+
+commit d84704f4906e9f40bc09b8a64928d2edfba073c8
+Merge: 61feec5 08b6681
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Sun Sep 4 21:32:39 2022 -0500
+
+    Merge branch 'js'
+
+commit 08b668183403c89a8450594e33f898d06515537c
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Sun Sep 4 21:25:26 2022 -0500
+
+    Creando main.js
+
+commit 61feec5f8ebffaca0830866514e2ff65f73d76bf
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Sun Sep 4 21:21:38 2022 -0500
+
+    Creando style.css
+
+commit 37d57b40ea695cf759f8a834544728d123e2e774
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Sun Sep 4 21:17:44 2022 -0500
+
+    Creando index.hmtl
+
+commit d3eef304c670082576a3914db80d82f07c51ca00
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Sat Sep 3 10:13:53 2022 -0500
+
+    Comandos de Branch / Rama
+
+commit c91aa0e4d000bc03f3f98592ca171e31b4af9fd3
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Sat Sep 3 10:05:01 2022 -0500
+
+    Clonando el repositorio de curseGit en la carpteta de CURSOGIT
+
+commit b8513a1739d2b55a0fe0e1e7595ac5321dc7c164
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Sat Sep 3 09:06:42 2022 -0500
+
+    Clonando repositorio
+
+commit 9fef5b51fb49728c84e79b0fe5e8b7d493660fee
+Merge: a4f7420 6cf4195
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Sat Sep 3 09:05:47 2022 -0500
+
+    Clonar repositorio
+
+commit a4f742079043992adb759699e923ed04d1161175
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Sat Sep 3 09:04:39 2022 -0500
+
+    Clonar repositorio
+
+commit 9e7cc003eacb40910ff56c37aa7af0d9b955d2cb
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Sat Sep 3 08:57:47 2022 -0500
+
+    Enviando el nuevo .gitignore con push
+
+commit 6cf4195b09eb9ff0de485c7de2d914f90c0066ba
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Sat Sep 3 08:57:47 2022 -0500
+
+    Clonar repositorios
+
+commit 1bcf85ed8f25c17eb27151522ca7b5b9ed928da7
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Sat Sep 3 08:55:36 2022 -0500
+
+    enviando la excepción con git push
+
+commit 54fb63646b56c074099995472056055c147dcae8
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Sat Sep 3 08:52:29 2022 -0500
+
+    Excluyendo archivos .exe
+
+commit 76be325a69644828f166ee28e3d8ace8bce999aa
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Sat Sep 3 08:49:58 2022 -0500
+
+    .gitignore
+
+commit 70183fb93b95fad95d1561f6558b7eb472845fab
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Sat Sep 3 08:49:02 2022 -0500
+
+    Agregando excepción * .log
+
+commit 5dd47e94b3bd5905dbbff05d0d974b8b139aa0e6
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Sat Sep 3 08:47:32 2022 -0500
+
+    Agregando contenido de .gitignore
+
+commit 4cb1a2c28edbffae32051a3505e8aa94b3318703
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Sat Sep 3 08:09:18 2022 -0500
+
+    Creando rama main
+
+commit 1bad29784330eff70d519dbc02522939948eec94
+Author: HectorBussan <hector141599@hotmail.com>
+Date:   Tue Aug 30 09:22:34 2022 -0500
+
+    Agregando comando pull
+
+commit 1c6b598e3c4a1bfb1f1efc85738e9b429ac9b731
+Author: HectorBusSan <99218752+HectorBusSan@users.noreply.github.com>
+Date:   Tue Aug 30 09:20:08 2022 -0500
+
+    Creando Licencia del repositorio
+
+commit 8651b26b3cfb460eb4347e89baa8406bf5132a6e
+Author: HectorBussan <hector141599@gmail.com>
+Date:   Tue Aug 30 09:08:19 2022 -0500
+
+    Agregando comandos basicos
+
+commit 13a8bbd9ef283f78804bf396fbd546951fbbbafb
+Author: HectorBussan <hector141599@gmail.com>
+Date:   Tue Aug 30 08:57:41 2022 -0500
+
+    Agregando estados de GIT
+
+commit 484366c538e596866c6ef055a86fc803d09b5388
+Author: HectorBussan <hector141599@gmail.com>
+Date:   Tue Aug 30 08:57:22 2022 -0500
+
+    Primer Commit :)
