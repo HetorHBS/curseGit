@@ -106,3 +106,5 @@ para ver el historial de commits usamos **log**
 - git log --after= "2022-09-14 00:00:00" --before "2022-15-08 00:00:00"
 - git log reflog (información de cambios, fuciones, ramas e inserciones)
 - git diff (diferencias entre el stage y el working directory)
+
+- git log --oneline --graph --all (para ver todos los commits a una linea con una grafica)
