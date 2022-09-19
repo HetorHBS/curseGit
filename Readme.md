@@ -106,6 +106,13 @@ para ver el historial de commits usamos **log**
 - git log --after= "2022-09-14 00:00:00" --before "2022-15-08 00:00:00"
 - git log reflog (información de cambios, fuciones, ramas e inserciones)
 - git diff (diferencias entre el stage y el working directory)
-
+=========
 - git log --oneline --graph --all (para ver todos los commits a una linea con una grafica)
 - git log --oneline --graph --all > graph.txt (en un txt los commits de manera grafica)
+# Reseteo del historial
+- git status
+- git reset --soft (borrar HEAD)
+- git reset --mixed (borrar HEAD y Staging)
+- git reset --hard (borrar todo Head, Staging y Word Directory)
+- git reset id-commit (desacer cambios de todos los commits despues del commit indicado, perservando los cambios localmente)
+- git reset --hard id-commit (desacer todos el historial y regresar al commit especificado)
