@@ -116,3 +116,13 @@ para ver el historial de commits usamos **log**
 - git reset --hard (borrar todo Head, Staging y Word Directory)
 - git reset id-commit (desacer cambios de todos los commits despues del commit indicado, perservando los cambios localmente)
 - git reset --hard id-commit (desacer todos el historial y regresar al commit especificado)
+# Resetear Repositorio
+- cd carpeta-repositorio
+- mv .git/config ~/saved_git_config (lo guarda en tu carpeta de usuario ~ rama principal de pc)
+- rm -rf .git (elimina git)
+- git init
+- git branch -M main
+- git add .
+- git commit -m "Commit inicial"
+- git ~/saved_git_config .git/config (solicita de regreso el archivo de configuración)
+- git push --force origin main (push forzado)
