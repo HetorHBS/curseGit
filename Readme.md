@@ -126,3 +126,10 @@ para ver el historial de commits usamos **log**
 - git commit -m "Commit inicial"
 - git ~/saved_git_config .git/config (solicita de regreso el archivo de configuración)
 - git push --force origin main (push forzado)
+# Remotos
+- git remote (origenes remotos del repositorio)
+- git remote -v (muestra los orgines remotos con detalle)
+- git remote *add* nombre-origin http://github... (agregar origen remoto)
+- git remote *rename* nombre-viejo nombre-nuevo (renombrar un origin remoto)
+- git remote *remove* nombre-origin (eliminar origen remoto)
+- git checkout --track -b rama-remota origin/rama-remota (descargar una rama remota a local diferente a la principal)
