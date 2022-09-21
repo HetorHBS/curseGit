@@ -163,3 +163,5 @@ Maneras de crear una etiqueta:
 - git remote add origin http://github...
 - git push origin gh-pages
 - git pull origin gh-pages (descargar cambios desde repositoio remoto al local)
+- Encontraremos el sitio web en: https://hectorbussan.github.io/curseGit/
+- githib.io
