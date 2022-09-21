@@ -152,9 +152,14 @@ Maneras de crear una etiqueta:
 - git tag v1.0.0
 - git commit -m "v1.0.0"
 - git push origin numero-versión
-===
 - (generar etiqueta anotada "con mensaje de commit")
 - git add .
 - git tag -a "v1.0.0" -m "Mensaje de la etiqueta"
 - git push --tags
 
+# GitHub Pages
+- git branch gh-pages
+- git checkout gh-pages
+- git remote add origin http://github...
+- git push origin gh-pages
+- git pull origin gh-pages (descargar cambios desde repositoio remoto al local)
