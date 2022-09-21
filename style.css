@@ -1,4 +1,23 @@
 *{
-    background-color: #000;
+    background-color: rgb(28, 22, 108);
     color: #fff;
+}
+html{
+    /* background-color: #000; */
+    color: #fff;
+    font-family: sans-serif;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+img{
+    max-width: 500px;
+}
+ul,ol{
+    list-style: none;
+}
+.listas{
+    border:1px solid #fff;
+    padding: 20px;
+    background-color: rgb(28, 22, 90);
 }
