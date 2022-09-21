@@ -133,3 +133,26 @@ para ver el historial de commits usamos **log**
 - git remote *rename* nombre-viejo nombre-nuevo (renombrar un origin remoto)
 - git remote *remove* nombre-origin (eliminar origen remoto)
 - git checkout --track -b rama-remota origin/rama-remota (descargar una rama remota a local diferente a la principal)
+# Etiquetas
+Versión: 2.0.0
+- Primer numero la versión (no es compatible con versiones anteriores)
+- Segundo numero funcionalidades (funcionalidades nuevas agregadas a la versión anterior)
+- Tercer numero Parches (Parches para corregir errores a la versión anterior)
+Esta es la Versión Semantica.
+
+Opciones de inicio: 0.0.1 o la 1.0.0
+- git tag (mostrar etiquetas)
+- git tag numero-versión (crear etiqueta)
+- git tag -d numero-versión (eliminar etiqueta)
+- git show numero-versión (mostrar info de la eqtiqueta)
+
+Maneras de crear una etiqueta:
+- (sincronizar equiqueta del repositorio local al remoto)
+- git add .
+- git tag v1.0.0
+- git commit -m "v1.0.0"
+- git push origin numero-versión
+- (generar etiqueta anotada "con mensaje de commit")
+- git add .
+- git tag -a "v1.0.0" -m "Mensaje de la etiqueta"
+- git push --tags
