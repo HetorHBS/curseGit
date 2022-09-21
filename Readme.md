@@ -152,7 +152,9 @@ Maneras de crear una etiqueta:
 - git tag v1.0.0
 - git commit -m "v1.0.0"
 - git push origin numero-versión
+===
 - (generar etiqueta anotada "con mensaje de commit")
 - git add .
 - git tag -a "v1.0.0" -m "Mensaje de la etiqueta"
 - git push --tags
+
