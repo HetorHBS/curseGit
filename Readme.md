@@ -180,3 +180,21 @@ Vamos a probar los fork
 - git push fork main
 - git branch -d rama-nueva
 - git push fork --delete rama-nueva
+# Configuración
+- git config --global user.name "Nombre"
+- git config --global user.mail *...@mail.com*
+- git config --global user.ui true
+- git config --list (toda la inforación de la configuración)
+===
+asignamos a visual code como editor para configuraciones
+- git config --global core.editor "core --wait"
+- git config --global -e
+===
+Window
+- git config --global core.autocrif
+Mac
+- git config --global core.autocrif input
+===
+ver todas las opcioens de configuración
+- git config -h
+- git help config
