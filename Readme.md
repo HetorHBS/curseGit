@@ -1,9 +1,9 @@
 ## Curso de GIT
 Hay 4 etapas:
-- working (area de trabajo)
-- staged (add)
-- commited (commit)
-- remote (push)
+- *working* (area de trabajo)
+- *staged* (add)
+- *commited* (commit)
+- *remote* (push)
 recordemos que tenemos que usar pull para traer el trabajo desde un repositorio
 # Comandos:
 - git add
@@ -165,3 +165,18 @@ Maneras de crear una etiqueta:
 - git pull origin gh-pages (descargar cambios desde repositoio remoto al local)
 - Encontraremos el sitio web en: https://hectorbussan.github.io/curseGit/
 - githib.io
+# Colaboración en GitHub
+## PruebasFork
+Vamos a probar los fork
+- git clone https://...
+- git remote -v
+- git remote rename origin fork
+- git remote add origin htpp://
+- git checkout -b rame-nueva
+-git push fork rama-name
+## Solicita el pull request
+## Acepta el pull request
+- git checkout main
+- git push fork main
+- git branch -d rama-nueva
+- git push fork --delete rama-nueva
