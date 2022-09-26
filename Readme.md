@@ -182,7 +182,7 @@ Vamos a probar los fork
 - git push fork --delete rama-nueva
 # Configuración
 - git config --global user.name "Nombre"
-- git config --global user.mail *...@mail.com*
+- git config --global user.email *...@mail.com*
 - git config --global user.ui true
 - git config --list (toda la inforación de la configuración)
 ===
