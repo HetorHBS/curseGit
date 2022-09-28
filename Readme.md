@@ -200,3 +200,4 @@ ver todas las opcioens de configuración
 - git help config
 ## If queremos usar una cuenta *LOCAL*
 Cambiaremos todas la opciones anteriores por --local
+prueba2
